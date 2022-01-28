@@ -1,1 +1,2 @@
-# Cryptocurrencies
+# Summary
+The purpose of this analysis was to utilize unsupervised machine learning to classify different cryptocurrencies in order to optimally invest in and trade them. Clustering algortithms using PCA and K-means were created to group different cryptocurrencies and visualizations were created to present the findings.
